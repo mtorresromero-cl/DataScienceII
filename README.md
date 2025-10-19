@@ -70,13 +70,9 @@ README.md # Descripción del proyecto
    git clone https://github.com/<tu-usuario>/BA_Vehiculos_Mal_Estacionados.git
    cd BA_Vehiculos_Mal_Estacionados
 
-🧾 Licencia
-Este proyecto se publica bajo la licencia MIT.
-Los datos utilizados pertenecen al Gobierno de la Ciudad Autónoma de Buenos Aires y se distribuyen bajo sus términos de uso público.
+🧾 Licencia: Este proyecto se publica bajo la licencia MIT. Los datos utilizados pertenecen al Gobierno de la Ciudad Autónoma de Buenos Aires y se distribuyen bajo sus términos de uso público.
 
 👤 Autor
 Miguel Torres Romero | Cientista político | Mg. (c) en Investigación en Ciencias Sociales, UBA. | 📧 hola@migueltorresromero.com | 🌐 https://www.migueltorresromero.com  
 
-⭐ Créditos
-Proyecto desarrollado en el marco del curso Data Science – Coderhouse (2025).
-Inspirado en la búsqueda de soluciones basadas en datos para mejorar la convivencia urbana en CABA.
+⭐ Créditos: Proyecto desarrollado en el marco del curso Data Science – Coderhouse (2025). Inspirado en la búsqueda de soluciones basadas en datos para mejorar la convivencia urbana en CABA.
