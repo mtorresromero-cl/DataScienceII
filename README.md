@@ -74,11 +74,7 @@ Este proyecto se publica bajo la licencia MIT.
 Los datos utilizados pertenecen al Gobierno de la Ciudad Autónoma de Buenos Aires y se distribuyen bajo sus términos de uso público.
 
 👤 Autor
-Miguel Torres Romero
-Cientista político
-Mg. (c) en Investigación en Ciencias Sociales, UBA.
-📧 hola@migueltorresromero.com
-🌐 https://www.migueltorresromero.com  
+Miguel Torres Romero | Cientista político | Mg. (c) en Investigación en Ciencias Sociales, UBA. | 📧 hola@migueltorresromero.com | 🌐 https://www.migueltorresromero.com  
 
 ⭐ Créditos
 Proyecto desarrollado en el marco del curso Data Science – Coderhouse (2025).
