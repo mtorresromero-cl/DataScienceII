@@ -70,6 +70,8 @@ README.md # Descripción del proyecto
    git clone https://github.com/<tu-usuario>/BA_Vehiculos_Mal_Estacionados.git
    cd BA_Vehiculos_Mal_Estacionados
 
+---
+
 🧾 Licencia:   
 Este proyecto se publica bajo la licencia MIT.  
 Los datos utilizados pertenecen al Gobierno de la Ciudad Autónoma de Buenos Aires y se distribuyen bajo sus términos de uso público.
