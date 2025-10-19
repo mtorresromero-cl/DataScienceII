@@ -14,11 +14,11 @@ El objetivo es generar **insights accionables** que contribuyan a:
 
 ### 🧩 Estructura del proyecto
 
-BA_Vehiculos_Mal_Estacionados_Clasificacion.ipynb # Notebook principal
-data/ # Datos originales y procesados
-models/ # Modelos entrenados (.joblib)
-outputs/ # Gráficos, métricas e informes
-README.md # Descripción del proyecto
+BA_Vehiculos_Mal_Estacionados_Clasificacion.ipynb # Notebook principal  
+data/ # Datos originales y procesados  
+models/ # Modelos entrenados (.joblib)  
+outputs/ # Gráficos, métricas e informes  
+README.md # Descripción del proyecto  
 
 
 ---
