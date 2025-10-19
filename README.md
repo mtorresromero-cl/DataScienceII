@@ -24,7 +24,8 @@ README.md # Descripción del proyecto
 ---
 
 ### 📊 Dataset
-- **Fuente:** [Portal de Datos Abiertos GCBA](https://data.buenosaires.gob.ar/)  
+- **Fuente:** [Portal de Datos Abiertos GCBA](https://data.buenosaires.gob.ar/)
+- **Base de datos:** https://cdn.buenosaires.gob.ar/datosabiertos/datasets/atencion-ciudadana/sistema-unico-atencion-ciudadana/sistema-unico-de-atencion-ciudadana-2024.csv
 - **Conjunto:** Sistema Único de Atención Ciudadana – BA Colaborativa (2024)  
 - **Subset:** registros con categoría o tipo “vehículo(s) mal estacionado(s)”  
 - **Tamaño:** ~170.000 registros tras limpieza y filtrado  
