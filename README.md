@@ -76,7 +76,7 @@ README.md # Descripción del proyecto
 Este proyecto se publica bajo la licencia MIT.  
 Los datos utilizados pertenecen al Gobierno de la Ciudad Autónoma de Buenos Aires y se distribuyen bajo sus términos de uso público.
 
-👤 Autor
+👤 Autor:  
 Miguel Torres Romero  
 Cientista político  
 Mg. (c) en Investigación en Ciencias Sociales, UBA.  
